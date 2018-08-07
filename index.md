@@ -4,6 +4,10 @@
 
 layout: home
 ---
+<div style="float: right">
+<a class="twitter-timeline" data-width="250" data-height="500" data-theme="light" href="https://twitter.com/SUSpotTheDiff?ref_src=twsrc%5Etfw">Tweets by SUSpotTheDiff</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 A multi-activity residential Scripture Union Holiday for 8-11 year olds, in Bilton Grange School, Dunchurch,
 near Rugby.
 
