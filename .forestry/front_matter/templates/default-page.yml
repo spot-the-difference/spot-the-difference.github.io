@@ -11,3 +11,4 @@ fields:
   label: picture
 pages:
 - _posts/today.md
+- _posts/monday.md
