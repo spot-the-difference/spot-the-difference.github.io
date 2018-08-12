@@ -11,5 +11,4 @@ fields:
   name: title
 - type: image_gallery
 pages:
-- _posts/today.md
 - _posts/sunday-12th.md
