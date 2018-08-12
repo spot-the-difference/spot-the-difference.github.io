@@ -4,8 +4,8 @@ hide_body: false
 is_partial: false
 fields:
 - type: textarea
-  label: Body
-  name: body
+  label: Title
+  name: title
 - type: file
   name: picture
   label: picture
