@@ -9,3 +9,5 @@ fields:
 - type: file
   name: picture
   label: picture
+pages:
+- _posts/today.md
