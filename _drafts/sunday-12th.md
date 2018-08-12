@@ -29,3 +29,4 @@ undefined:
 - "/uploads/DSC_0043.jpg"
 
 ---
+Fantastic start to the holiday. Parachute games, swimming, singing and checking out who made the world
