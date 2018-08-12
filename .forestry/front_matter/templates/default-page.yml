@@ -3,12 +3,13 @@ label: Default page
 hide_body: false
 is_partial: false
 fields:
-- type: textarea
-  label: Title
-  name: title
 - type: file
   name: picture
   label: picture
+- type: textarea
+  label: Title
+  name: title
+- type: image_gallery
 pages:
 - _posts/today.md
 - _posts/monday.md
