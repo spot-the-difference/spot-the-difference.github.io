@@ -1,0 +1,11 @@
+---
+label: Default page
+hide_body: false
+is_partial: false
+fields:
+- type: textarea
+  label: Body
+  name: body
+- type: file
+  name: picture
+  label: picture
