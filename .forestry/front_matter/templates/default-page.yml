@@ -12,5 +12,4 @@ fields:
 - type: image_gallery
 pages:
 - _posts/today.md
-- _posts/monday.md
 - _posts/sunday-12th.md
