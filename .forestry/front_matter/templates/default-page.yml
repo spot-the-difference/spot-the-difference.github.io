@@ -11,5 +11,6 @@ fields:
   name: title
 - type: image_gallery
 pages:
+- _posts/make-the-difference.md
 - _posts/thursday-16th.md
 - _posts/2018-08-12-sunday-12th.md
