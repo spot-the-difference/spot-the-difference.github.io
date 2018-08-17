@@ -1,5 +1,38 @@
 ---
 title: Friday 17th
 date: 2018-08-17 23:52:57 +0000
+picture: ''
+undefined:
+- "/uploads/DSC_0021-1.jpg"
+- "/uploads/DSC_0197.jpg"
+- "/uploads/DSC_0196.jpg"
+- "/uploads/DSC_0189.jpg"
+- "/uploads/DSC_0185.jpg"
+- "/uploads/DSC_0178.jpg"
+- "/uploads/DSC_0175.jpg"
+- "/uploads/DSC_0171.jpg"
+- "/uploads/DSC_0165.jpg"
+- "/uploads/DSC_0160.jpg"
+- "/uploads/DSC_0145.jpg"
+- "/uploads/DSC_0141-1.jpg"
+- "/uploads/DSC_0138.jpg"
+- "/uploads/DSC_0129.jpg"
+- "/uploads/DSC_0126.jpg"
+- "/uploads/DSC_0119.jpg"
+- "/uploads/DSC_0115-1.jpg"
+- "/uploads/DSC_0111-1.jpg"
+- "/uploads/DSC_0108-2.jpg"
+- "/uploads/DSC_0101-1.jpg"
+- "/uploads/DSC_0097-1.jpg"
+- "/uploads/DSC_0095-2.jpg"
+- "/uploads/DSC_0091.jpg"
+- "/uploads/DSC_0082-2.jpg"
+- "/uploads/DSC_0078.jpg"
+- "/uploads/DSC_0075.jpg"
+- "/uploads/DSC_0063.jpg"
+- "/uploads/DSC_0062-1.jpg"
+- "/uploads/DSC_0060-1.jpg"
+- "/uploads/DSC_0058-1.jpg"
 
 ---
+Our last full day (camp photo day) with choices of Lacrosse, T-shirt painting, dance and music, mixed in with more swimming and drama made for a great day.
