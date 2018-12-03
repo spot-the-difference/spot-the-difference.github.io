@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: "/about/"
+permalink: "/about"
 
 ---
 If you haven’t been away from home before, this holiday will be the perfect fit. Whatever you like – playing sports and wide games, creating art, acting, swimming, singing or playing music – you will feel part of the family at Spot the Difference!

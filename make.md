@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Make The Difference
-permalink: "/make/"
+permalink: "/make"
 
 ---
 Too old for Spot the Difference this year?… 🙁   Enjoyed Spot The Difference in the past & want to take the next step?… 🙂

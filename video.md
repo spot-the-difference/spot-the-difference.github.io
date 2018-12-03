@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2018 Camp video
-permalink: "/video/"
+permalink: "/video"
 hide_in_nav: true
 ---
 
